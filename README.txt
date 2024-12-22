@@ -1,0 +1,1 @@
+gcc -std=c11 Tetris.c -I"include" -L"lib" -Wall -lmingw32 -lSDL2main -lSDL2 -lSDL2_mixer -lSDL2_ttf -o Tetris
